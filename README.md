@@ -4,6 +4,11 @@
 
 This project implements the Word2Vec model to analyze text data related to BPJS (Badan Penyelenggara Jaminan Sosial) in Indonesia. The objective is to explore semantic relationships between words in the context of health services and social insurance. The analysis includes finding synonyms, filling in blanks in sentences, and performing analogical reasoning.
 
+## Team Members:
+- Naura Jasmine Azzahra - 5026211005
+- Ramadhanul Husna A. M. - 5026211059
+- Fikri Septa Setiawan - 5026211109
+
 ## Structure of the Repository
 
 ```
