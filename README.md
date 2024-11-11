@@ -6,7 +6,7 @@ This project implements the Word2Vec model to analyze text data related to BPJS 
 
 ## Structure of the Repository
 
-'''bash
+```
 Word2Vec_BPJS_Analysis/
 │
 ├── data/
@@ -20,7 +20,7 @@ Word2Vec_BPJS_Analysis/
 │ ├── Word2Vec_Final_Week_11.ipynb # Jupyter Notebook containing code and analysis
 │
 └── README.md # Project description 
-'''
+```
 
 # Word2Vec Analysis on BPJS Data
 
