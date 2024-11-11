@@ -5,6 +5,8 @@
 This project implements the Word2Vec model to analyze text data related to BPJS (Badan Penyelenggara Jaminan Sosial) in Indonesia. The objective is to explore semantic relationships between words in the context of health services and social insurance. The analysis includes finding synonyms, filling in blanks in sentences, and performing analogical reasoning.
 
 ## Structure of the Repository
+
+'''bash
 Word2Vec_BPJS_Analysis/
 │
 ├── data/
@@ -18,6 +20,7 @@ Word2Vec_BPJS_Analysis/
 │ ├── Word2Vec_Final_Week_11.ipynb # Jupyter Notebook containing code and analysis
 │
 └── README.md # Project description 
+'''
 
 # Word2Vec Analysis on BPJS Data
 
